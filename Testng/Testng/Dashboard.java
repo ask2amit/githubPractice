@@ -9,7 +9,7 @@ public class Dashboard {
 	public void TestA()
 	{
 		System.out.println("This is DashboardClass");
-		System.out.println("DashboardClass completed");
+		
 	}
 
 }
