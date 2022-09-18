@@ -6,7 +6,7 @@ public class NewClass14 {
 	
 		
 		System.out.println("This is New Class");
-		System.out.println("This is Modified Class");
+		
 
 	}
 
